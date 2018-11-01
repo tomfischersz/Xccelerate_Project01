@@ -1,0 +1,8 @@
+# History files
+.ipynb_checkpoints
+
+# Session Data files
+.RData
+
+# Data Folder (often too big for GitHub)
+data/*
